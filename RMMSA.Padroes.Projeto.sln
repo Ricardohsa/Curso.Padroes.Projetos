@@ -65,6 +65,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Decorator", "Decorator", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMMSA.PadoresProjeto.Estruturais.Decorator", "RMMSA.PadoresProjeto.Estruturais.Decoretor\RMMSA.PadoresProjeto.Estruturais.Decorator.csproj", "{0F780619-9A59-49B8-A531-B91A0E683EA1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{FFC2FEB5-BA9D-42D9-8A25-6E5146327268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMMSA.PadroesProjeto.Estruturais.Facade", "RMMSA.PadroesProjeto.Estruturais.Facade\RMMSA.PadroesProjeto.Estruturais.Facade.csproj", "{41BC64B9-B062-4649-A560-B57EF454EA15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +131,10 @@ Global
 		{0F780619-9A59-49B8-A531-B91A0E683EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F780619-9A59-49B8-A531-B91A0E683EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F780619-9A59-49B8-A531-B91A0E683EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BC64B9-B062-4649-A560-B57EF454EA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BC64B9-B062-4649-A560-B57EF454EA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BC64B9-B062-4649-A560-B57EF454EA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BC64B9-B062-4649-A560-B57EF454EA15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -160,5 +168,7 @@ Global
 		{E39F3117-EAE2-454B-8567-8E7CF2E18568} = {E563AE87-E2E1-4C4C-B531-8A0E45FB8028}
 		{6E4F3899-0125-454F-9AF5-34C75352E240} = {31499E20-BC58-4E37-9CC5-06BE34DABFA4}
 		{0F780619-9A59-49B8-A531-B91A0E683EA1} = {6E4F3899-0125-454F-9AF5-34C75352E240}
+		{FFC2FEB5-BA9D-42D9-8A25-6E5146327268} = {31499E20-BC58-4E37-9CC5-06BE34DABFA4}
+		{41BC64B9-B062-4649-A560-B57EF454EA15} = {FFC2FEB5-BA9D-42D9-8A25-6E5146327268}
 	EndGlobalSection
 EndGlobal
