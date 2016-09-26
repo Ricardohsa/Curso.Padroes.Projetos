@@ -57,6 +57,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bridge", "Bridge", "{5D6D9E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMMSA.PadroesProjeto.Estuturais.Bridge", "RMMSA.PadroesProjeto.Estuturais.Bridge\RMMSA.PadroesProjeto.Estuturais.Bridge.csproj", "{A317F885-D35A-4F62-8FDA-7C06021730E6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Composite", "Composite", "{E563AE87-E2E1-4C4C-B531-8A0E45FB8028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMMSA.PadroesProjeto.Estruturais.Composicao", "RMMSA.PadroesProjeto.Estruturais.Composicao\RMMSA.PadroesProjeto.Estruturais.Composicao.csproj", "{E39F3117-EAE2-454B-8567-8E7CF2E18568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,10 @@ Global
 		{A317F885-D35A-4F62-8FDA-7C06021730E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A317F885-D35A-4F62-8FDA-7C06021730E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A317F885-D35A-4F62-8FDA-7C06021730E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39F3117-EAE2-454B-8567-8E7CF2E18568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39F3117-EAE2-454B-8567-8E7CF2E18568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39F3117-EAE2-454B-8567-8E7CF2E18568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39F3117-EAE2-454B-8567-8E7CF2E18568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,5 +148,7 @@ Global
 		{4C341282-03DD-47C8-8335-1BAEE8162911} = {D8D64BE6-15E5-4490-854F-B7144152D75A}
 		{5D6D9EFA-5A86-485E-9495-57600ABDA032} = {31499E20-BC58-4E37-9CC5-06BE34DABFA4}
 		{A317F885-D35A-4F62-8FDA-7C06021730E6} = {5D6D9EFA-5A86-485E-9495-57600ABDA032}
+		{E563AE87-E2E1-4C4C-B531-8A0E45FB8028} = {31499E20-BC58-4E37-9CC5-06BE34DABFA4}
+		{E39F3117-EAE2-454B-8567-8E7CF2E18568} = {E563AE87-E2E1-4C4C-B531-8A0E45FB8028}
 	EndGlobalSection
 EndGlobal
