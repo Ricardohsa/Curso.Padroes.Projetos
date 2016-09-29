@@ -87,6 +87,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{FE96
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMMSA.PadoresProjeto.Comportamentais.Command", "RMMSA.PadoresProjeto.Comportamentais.Command\RMMSA.PadoresProjeto.Comportamentais.Command.csproj", "{A77C7174-97DA-4A5B-960A-E6CB17D40B1B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Iterator", "Iterator", "{E57F713B-1517-4ED7-A933-869704AE88BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMMSA.PadroesProjeto.Comportamentais.Iterator", "RMMSA.PadroesProjeto.Comportamentais.Iterator\RMMSA.PadroesProjeto.Comportamentais.Iterator.csproj", "{221ECAEC-9157-4CAF-B3B7-088F9D6C0603}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +173,10 @@ Global
 		{A77C7174-97DA-4A5B-960A-E6CB17D40B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A77C7174-97DA-4A5B-960A-E6CB17D40B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A77C7174-97DA-4A5B-960A-E6CB17D40B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221ECAEC-9157-4CAF-B3B7-088F9D6C0603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221ECAEC-9157-4CAF-B3B7-088F9D6C0603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221ECAEC-9157-4CAF-B3B7-088F9D6C0603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221ECAEC-9157-4CAF-B3B7-088F9D6C0603}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -212,5 +220,7 @@ Global
 		{CA582BA1-B6FA-4836-A8E1-BFBB058B9AE2} = {4AB21F0E-FACC-47AF-8425-214DD0B0CBBA}
 		{FE96CBCE-5120-4F1B-8433-1442094EB960} = {2A8FE66B-58EC-4F48-B2FE-58285A7D6328}
 		{A77C7174-97DA-4A5B-960A-E6CB17D40B1B} = {FE96CBCE-5120-4F1B-8433-1442094EB960}
+		{E57F713B-1517-4ED7-A933-869704AE88BB} = {2A8FE66B-58EC-4F48-B2FE-58285A7D6328}
+		{221ECAEC-9157-4CAF-B3B7-088F9D6C0603} = {E57F713B-1517-4ED7-A933-869704AE88BB}
 	EndGlobalSection
 EndGlobal
